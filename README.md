@@ -55,8 +55,8 @@ Em versões futuras, a ideia é permitir o uso das próprias credenciais e inclu
 - **Objetivo:** Projeto com finalidade inicial acadêmica e portfólio, evoluindo com novos recursos a cada sprint.  
 - **Acesso:** A aplicação pode ser acessada em: **https://lunioai.site**
 
-![Lunio AI - Arquitetura](Assets/lunio%20diagram.jpg)
-![Lunio AI - Interface](Assets/Lunio_page.png)
+![Lunio AI - Arquitetura](assets/lunio%20diagram.jpg)
+![Lunio AI - Interface](assets/Lunio_page.png)
 
 ---
 
